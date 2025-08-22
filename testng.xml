@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SmokeSuit">
+<groups>
+<run>
+<include name="SmokeSuite"></include>
+</run>
+</groups>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="ninza.CRMCampaign.CampaignsTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- SmokeSuit -->
