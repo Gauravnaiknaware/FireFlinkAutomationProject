@@ -20,7 +20,7 @@ public class ReadDataFromCmdLine {
 	   System.out.println("=== Executed Successfully======");
 	   
 	   System.out.println("=== Executed====== ");
-	   
+
 	   
 	   
 	   
