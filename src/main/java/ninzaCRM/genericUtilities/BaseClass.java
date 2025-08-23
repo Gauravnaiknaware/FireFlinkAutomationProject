@@ -1,4 +1,4 @@
- package ninzaCRM.genericUtilities;
+package ninzaCRM.genericUtilities;
 
 import java.io.IOException;
 import java.time.Duration;
@@ -22,7 +22,7 @@ import ninzaCRM.genricUtilities.FileUtility;
  
 
 //import ninzaCRM.ObjectRepo.LoginPage;
-
+@Test
 public class BaseClass {
     
 
@@ -73,8 +73,4 @@ public class BaseClass {
         System.out.println("====== DB CLOSED======");
     }
    
-    
- 
-    
-
 }
