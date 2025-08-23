@@ -1,4 +1,4 @@
- package ninzaCRM.genericUtilities;
+package ninzaCRM.genericUtilities;
 
 import java.io.IOException;
 import java.time.Duration;
